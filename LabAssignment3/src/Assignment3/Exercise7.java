@@ -24,5 +24,3 @@ public class Exercise7 {
         return sb.toString();
     }
 }
-
-
